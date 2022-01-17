@@ -15,3 +15,4 @@ getting repositories [https://api.github.com/users/uhuru-rawlings](https://api.g
 You will also need service to help in making http request. to generate that you will run. <strong>ng g service service_name</strong>.
 again you will need classes. you can generate them by running <strong>ng g class class_name</strong>
 #### Running the project
+If you want to oppen the project in the browser you will need to run <strong>ng serve --o </strong> this will open your project in the browser. default port is 4200 
