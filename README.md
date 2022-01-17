@@ -1,3 +1,3 @@
 # AppName: GithubAPI
 # Description
- GithubAPI app is a angular app that consumes
+ GithubAPI app is a angular app that consumes github api.
