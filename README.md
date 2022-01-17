@@ -1,2 +1,2 @@
-# GithubAPI
+# AppName: GithubAPI
 
