@@ -9,3 +9,5 @@ getting repositories [https://api.github.com/users/uhuru-rawlings](https://api.g
     1. Typescript
     2. Node
     3. Angular Cli
+#### Seting up new project
+
