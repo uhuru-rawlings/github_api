@@ -13,4 +13,4 @@ getting repositories [https://api.github.com/users/uhuru-rawlings](https://api.g
  To set up angular project you will need to run. <strong>ng new projectname</strong> This will generate the necesary files required to run angular project.
  You will need to create your own components and you can do that by running <strong>ng g c component_name</strong>
 You will also need service to help in making http request. to generate that you will run. <strong>ng g service service_name</strong>.
-again you will need classes. you can generate them by running 
+again you will need classes. you can generate them by running <strong>ng g class class_name</strong>
