@@ -10,4 +10,4 @@ getting repositories [https://api.github.com/users/uhuru-rawlings](https://api.g
     2. Node
     3. Angular Cli
 #### Seting up new project
- To set up angular project you will need to run. <strong>ng new projectname</strong>
+ To set up angular project you will need to run. <strong>ng new projectname</strong> This will generate the necesary files required to run angular project.
