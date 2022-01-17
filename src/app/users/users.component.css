@@ -1,0 +1,18 @@
+.flex_card{
+    display: flex;
+    column-gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+}
+.card{
+    width: 300px;
+    padding: 10px;
+}
+.row{
+    font-size: 16px;
+    color: gray;
+}
+.buttons{
+    text-align: center;
+    padding: 20px;
+}
